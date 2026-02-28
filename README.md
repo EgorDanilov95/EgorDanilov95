@@ -5,8 +5,15 @@
 Beyond the code, I'm a strong believer in collaboration. I easily adapt to different personalities and team dynamics, and I'm always open to feedback and constructive discussions. I care about the business impact of my work: my goal is not just to deliver features, but to build solutions that genuinely improve the product experience for users.
 
 I'm reliable with deadlines, always ready to support my teammates, and constantly eager to learn from those around me to achieve our shared goals.
+#### 📫 How to reach me
 
-### 🛠️ Tech Stack
+- 📍 **Location:** Russia, Moscow
+- ✉️ **Email:** [danilov-egor-e@yandex.ru](mailto:danilov-egor-e@yandex.ru)
+- 💬 **Telegram:** [@DanilovEgorE](https://t.me/DanilovEgorE)
+
+
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
