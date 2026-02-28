@@ -10,8 +10,8 @@ I'm reliable with deadlines, always ready to support my teammates, and constantl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastify,ts,js,postgres,git,docker,redis,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,git,docker,redis,linux,postman" />
   </a>
 </p>
 
-*Node.js • fastify • TypeScript • JavaScript • PostgreSQL • MongoDB • Git • Docker • Redis • Linux • Postman*
+
