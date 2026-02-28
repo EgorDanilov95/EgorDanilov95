@@ -1,6 +1,6 @@
-## Hi there, I'm Egor 👋
+# Hi there, I'm Egor 👋
 
-# I'm a backend developer focused on Node.js, passionate about creating robust, maintainable, and well-architected solutions. Clean code isn't just a phrase for me - it's a practice I prioritize in every project.
+### I'm a backend developer focused on Node.js, passionate about creating robust, maintainable, and well-architected solutions. Clean code isn't just a phrase for me - it's a practice I prioritize in every project.
 
 Beyond the code, I'm a strong believer in collaboration. I easily adapt to different personalities and team dynamics, and I'm always open to feedback and constructive discussions. I care about the business impact of my work: my goal is not just to deliver features, but to build solutions that genuinely improve the product experience for users.
 
